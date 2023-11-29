@@ -1,0 +1,78 @@
+First Name          |Last Name           |  Age|Score
+--------------------+--------------------+-----+-----
+Aaron                Grimm                   30    86
+Aaron                Koressel                33    86
+Aaron                Russo                   30    86
+Abigail              Kelley                  57    67
+Abraham              Harper                  58    85
+Abraham              Howard                  26    82
+Ada                  Parker                  26    72
+Ada                  Walker                  61    70
+Adam                 Faruqi                  38    89
+Adam                 Fuchs                   21    85
+Adam                 Gates                   19    96
+Adam                 Wermus                  26    90
+Adam                 Woodbury                34    86
+Addie                Chandler                54    80
+Addielyn             Thurston                18    83
+Adelaide             Carter                  20    84
+Adelaide             Clark                   74    82
+Adison               Scott                   53    70
+Adrian               Owens                   35    93
+Adrian               Bell                    62    85
+Adrian               Maruri                  58    70
+Adrian               Molina                  46    68
+Aida                 Higgins                 50    77
+Aimei                Kutt                    65    69
+AJ                   Zmudosky                21    77
+Alan                 Adams                   47    77
+Alan                 Edwards                 45    70
+Alan                 Browning                45    77
+Albert               Richardson              34    67
+Alberta              Barrett                 55    74
+Alex                 Iles                    64    70
+Alex                 Marino                  36    78
+Alex                 Mohr                    28    94
+Alexandra            Zalucky                 36    91
+Alexandro            Campos                  21    72
+Alfonso              Caparrini               22    97
+Alicea               Lin Engquist            52    78
+Alison               Fernandez               41    75
+Alissa               Hunt                    20    86
+Allen                Fogle                   66    75
+Allison              Bianchi                 24    75
+Allison              Parker                  30    74
+Alma                 Fernandez               31    74
+Alon                 Tamir Winterstein       51    69
+Alvin                Chea                    55    70
+Aly                  Fidiam-Smith            41    81
+Alyssa               Del Vigna               38    78
+Alyssa               Mar                     47    81
+Alyssa               Minko                   51    82
+Alyssa               Murphy                  42    84
+Alyssa               Park                    48    84
+Alyssa               Promessi                30    75
+Amanda               Goodpaster              28    88
+Amandeep             Singh                   32    93
+Amelia               Williams                62    78
+Amit                 Ganapati Baadkar        51    74
+Amy                  Perry                   18    72
+Amy                  H. Chen                 74    70
+Amy                  Hershberger             45    74
+Ana                  Gabriela Lacaze         40    77
+Ana                  Landauer                70    76
+Ana                  Ram'rez Gonz'les        45    69
+Andie                Sanchez                 22    84
+Andrea               Aleman                  65    70
+Andrea               Goh                     53    76
+Andrea               Warren                  27    74
+Andrea               Zomorodian              36    79
+Andreas              Procopiou               55    77
+Andrew               Ryan                    20    86
+Andrew               Beall                   61    70
+Andrew               Butts                   41    68
+Andrew               Jimenez                 43    84
+Andrew               Kinney                  74    79
+Andrew               Page                    62    78
+Andrew               Perez                   45    76
+Andrew               Pienaar                 30    76
